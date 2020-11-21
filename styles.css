@@ -1,0 +1,13 @@
+.blur{
+  background:rgba(255, 255, 255, 0.021);
+}
+
+.space-50 {
+  display: block;
+  height: 50px
+}
+
+.space-180 {
+  display: block;
+  height: 180px
+}
